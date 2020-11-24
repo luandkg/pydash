@@ -1,5 +1,5 @@
 
-![PYDASH](https://raw.githubusercontent.com/luandkg/pydash/master/res/pydash.png)
+![PYDASH](https://raw.githubusercontent.com/luandkg/pydash/master/res/pydash2.png)
 
 # pyDash
 
