@@ -1,5 +1,12 @@
 # pyDash
-A Python Dash Project.
+
+        - A Python Dash Project.
+        - Universidade : UnB 2020.01 - RD : Redes de Computadores
+
+# Alunos
+
+        - Luan Freitas
+        - Vinícius Martins
 
 ## Pré-requisitos
 
